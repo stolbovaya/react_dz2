@@ -1,0 +1,12 @@
+.wrapper {
+    width: 100%;
+    height:auto;
+    position:relative;
+    padding-top:1%;
+    background-color:#83badc;
+}
+.imgpost {
+    height: 100px;
+    objectFit: cover;
+    width: 100px
+}

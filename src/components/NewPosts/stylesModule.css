@@ -1,0 +1,27 @@
+.mainpost{
+    display:flex;
+    width:100%;
+    flex-direction:column;
+    gap: 32px;
+}
+.banner {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    gap: 16px;
+}
+.cantainer{
+    padding:24px;
+    min-height:100vh;
+
+}
+.titel{
+    font-size:28px;
+}
+.wrapper {
+    width: 100%;
+    height:auto;
+    position:relative;
+    padding-top:80%;
+    background-color:lightslategrey;
+}
